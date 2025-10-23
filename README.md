@@ -1,4 +1,4 @@
-<!-- # 💫 My Portfolio — A Subtle Flex of Code & Charm   -->
+# 💫 My Portfolio — A Subtle Flex of Code & Charm    
 
 Welcome to my digital playground.  
 This portfolio is built from scratch — pure **HTML** and **CSS**, no frameworks, no shortcuts.  
